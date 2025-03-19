@@ -8,7 +8,7 @@ import keyboard
 class AutoPresser:
     def __init__(self, master):
         self.master = master
-        master.title("Automated Key Presser")
+        master.title("Automated Key m7mds91")
 
         self.running = False
 
